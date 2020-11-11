@@ -1,0 +1,16 @@
+.box{
+    width: 100%;
+    border: 5px solid black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.box__item{
+    width: 300px;
+    height: 300px;
+    margin: 16px;
+    margin: auto;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
